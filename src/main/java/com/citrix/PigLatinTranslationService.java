@@ -50,7 +50,6 @@ public class PigLatinTranslationService {
         }
 
         if (isConsonant(word.charAt(0))) {
-            // we need to put the first character in suffix not to lose the positions of the punctuations
             return transform(word, word.substring(1), word.charAt(0) + AY);
         }
 
