@@ -19,7 +19,3 @@ For each word of size n:
 * Letters Y and y are considered consonants.
 * Hyphen is considered to be the minus (-) character. This is called hyphen-minus. Note: The actual hyphen character has a different unicode mapping and is not taken into account.
 * Not all the punctuations characters are included.
-
-## Notes
-I found the problem very interesting from an algorithmic stand point. 
-I hope :crossed_fingers: we have the opportunity to discuss the solution in person :bow:
